@@ -1,0 +1,2 @@
+update_lr(optimizer, 0.00002)
+checkpoint = torch.load('D:/model_param/22.08.19.13.48/itr_199000')

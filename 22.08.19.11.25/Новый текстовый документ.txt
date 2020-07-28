@@ -1,0 +1,1 @@
+param_groups 	 [{'lr': 0.002, 'momentum': 0, 'dampening': 0, 'weight_decay': 0, 'nesterov': False, 'params': [127288160, 127288088, 127288736, 127288808, 127288880, 127288448, 127288952, 127289024]}]
