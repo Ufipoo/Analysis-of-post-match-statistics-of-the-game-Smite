@@ -41,5 +41,24 @@ test1.py и test17.py рабочие модели. Какая из них пос
 # Результаты работы
 Подбор гиперпараметров
 ![13](https://i.imgur.com/R0Iobvz.png)
-
+### Результаты тренировки первой модели lr = 0,0001
+![14](https://i.imgur.com/Xf6lhdh.png)
+![15](https://i.imgur.com/HxL5wGm.png)
+![16](https://i.imgur.com/yS07487.png)
+![17](https://i.imgur.com/6Y25TwM.png)
+# Модель с обучением векторного представления команд
+## One hot encoding
+### Каждому герою с номером i сопоставляется вектор длины 101, в котором i-ая координата равна 1, а остальные 0. Так на вход модели поступает 10 векторов, размером 101. 
+## Embedding
+### Embedding - матрица размера [количество всех героев х embedding size]. Умножение вектора one hot encoding на матрицу весов возвращает вектор героя, в виде embedding`a.
+![18](https://i.imgur.com/m6G3mv3.png)
+![19](https://i.imgur.com/UIWl8xA.png)
+![20](https://i.imgur.com/hGeSnPK.png)
+![21](https://i.imgur.com/rfirWfs.png)
+![22](https://i.imgur.com/obzR6jJ.png)
+![23](https://i.imgur.com/V8tq3Uy.png)
+![24](https://i.imgur.com/nnhIiyW.png)
+![25](https://i.imgur.com/Ln4JITp.png)
+![26](https://i.imgur.com/gmq5d90.png)
+![27](https://i.imgur.com/I0RZxzv.png)
 
