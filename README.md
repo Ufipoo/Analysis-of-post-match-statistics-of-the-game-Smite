@@ -5,7 +5,12 @@ Course work
 Закинула сюда все нужные файлы: парсер, модели, эксперименты, графики и т.д.
 test1.py и test17.py рабочие модели. Какая из них последней версии не помню, где-то небольшие правик были для измерения точности и построения "красивых" графиков в visdom.
 
-### [test1.py](https://github.com/Ufipoo/Analysis-of-post-match-statistics-of-the-game-Smite/blob/master/test1.py)
-### [test17.py](https://github.com/Ufipoo/Analysis-of-post-match-statistics-of-the-game-Smite/blob/master/test17.py)
+#### [test1.py](https://github.com/Ufipoo/Analysis-of-post-match-statistics-of-the-game-Smite/blob/master/test1.py)
+#### [test17.py](https://github.com/Ufipoo/Analysis-of-post-match-statistics-of-the-game-Smite/blob/master/test17.py)
 
-![1](https://i.imgur.com/KZ8C83b.jpg)
+### Постановка задачи
+#### Целью данной работы является создание нейронной сети, способной классифицировать исход матча, учитывая состав команд. 
+В состав одной команды входят 5 героев, всего в матче 10 героев.
+Исход матча определяется одним победителем: победила либо первая, либо вторая команда.
+Всего в игре имеется 101 герой (105 в новом датасете).
+ 
