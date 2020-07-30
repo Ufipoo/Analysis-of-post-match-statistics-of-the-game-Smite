@@ -41,11 +41,11 @@ test1.py и test17.py рабочие модели. Какая из них пос
 # Результаты работы
 Подбор гиперпараметров
 ![13](https://i.imgur.com/R0Iobvz.png)
-### Результаты тренировки первой модели lr = 0,0001
-![14](https://i.imgur.com/Xf6lhdh.png)
-![15](https://i.imgur.com/HxL5wGm.png)
-![16](https://i.imgur.com/yS07487.png)
-![17](https://i.imgur.com/6Y25TwM.png)
+
+![14](https://i.imgur.com/TUN9C9q.png)
+![15](https://i.imgur.com/Dv5TokK.png)
+![16](https://i.imgur.com/g3pOh8H.png)
+![17](https://i.imgur.com/faoiJhm.png)
 # Модель с обучением векторного представления команд
 ## One hot encoding
 ### Каждому герою с номером i сопоставляется вектор длины 101, в котором i-ая координата равна 1, а остальные 0. Так на вход модели поступает 10 векторов, размером 101. 
