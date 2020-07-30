@@ -8,4 +8,4 @@ test1.py и test17.py рабочие модели. Какая из них пос
 ### [test1.py](https://github.com/Ufipoo/Analysis-of-post-match-statistics-of-the-game-Smite/blob/master/test1.py)
 ### [test17.py](https://github.com/Ufipoo/Analysis-of-post-match-statistics-of-the-game-Smite/blob/master/test17.py)
 
-![1](https://i.imgur.com/o7vc3jb.jpg)
+![1](https://i.imgur.com/KZ8C83b.jpg)
