@@ -27,8 +27,19 @@ test1.py и test17.py рабочие модели. Какая из них пос
 #### В датасет сохранялись не полные имена героев, а их индексы. Например, вектор данного матча, где первая команда победила, выглядит так –
 ![4](https://i.imgur.com/suegP5p.jpg)
 ![5](https://i.imgur.com/5esJTfg.jpg)
-### Подготовка данных
+# Подготовка данных
 ![6](https://i.imgur.com/07KIljo.png)
-### Модель без обучения векторного представления команд
+# Модель без обучения векторного представления команд
 ![7](https://i.imgur.com/GI6GBzS.png)
 ![8](https://i.imgur.com/5YLniP9.png)
+![9](https://i.imgur.com/tjHhkWF.jpg)
+## Аугментация
+![10](https://i.imgur.com/QTE71ds.png)
+![11](https://i.imgur.com/uqejDY3.jpg)
+# Модель без обучения векторного представления команд
+![12](https://i.imgur.com/YbXMLvP.png)
+# Результаты работы
+Подбор гиперпараметров
+![13](https://i.imgur.com/R0Iobvz.png)
+
+
